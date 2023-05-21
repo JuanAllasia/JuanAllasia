@@ -13,8 +13,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/juan allasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan allasia" height="30" width="40" /></a>
-<a href="https://fb.com/juan manuel allasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan manuel allasia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juan-allasia-6a462b267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan allasia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/juanmanuel.allasia.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan manuel allasia" height="30" width="40" /></a>
 <a href="https://instagram.com/juan.allasia12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan.allasia12" height="30" width="40" /></a>
 </p>
 
